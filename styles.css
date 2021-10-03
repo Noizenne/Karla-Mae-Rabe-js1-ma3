@@ -17,6 +17,12 @@ body {
     animation: spin 2.5s linear infinite;
 }
 
+
+.results {
+    margin: 5px;
+    padding: 10px;
+    border: black solid 1px;
+}
 .error {
     border: 1px solid;
     padding: 1rem;
